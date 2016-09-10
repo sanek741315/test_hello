@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"tst1": {
+			"name": "tst1",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "tst1",
+			"order": 0
+		},
+		"tst2": {
+			"name": "tst2",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "tst2",
+			"order": 1
+		},
+		"creator": {
+			"name": "creator",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "creator",
+			"order": 2
+		}
+	}
+}

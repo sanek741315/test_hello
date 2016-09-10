@@ -1,0 +1,1 @@
+if (!me || this.creator != me.id) cancel("not your obj", 401);
